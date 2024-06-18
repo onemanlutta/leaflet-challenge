@@ -1,4 +1,4 @@
-# leaflet-challenge
+# leaflet-challenge I
 
 ## Overview
 This project aims to create an interactive map using Leaflet.js and D3.js to visualize earthquake data sourced from the USGS GeoJSON feed. The map will display earthquake locations, magnitudes represented by marker sizes, and depths by marker colors. Optional integration includes plotting tectonic plate boundaries alongside earthquake data for additional context. Users can toggle between different base maps and overlays using layer controls. This visualization not only educates about seismic activity but also demonstrates the integration of geographic data using modern web mapping technologies.
@@ -8,10 +8,7 @@ This project aims to create an interactive map using Leaflet.js and D3.js to vis
   - `index.html`
   - `style.css`
   - `logic.js`
-- `Leaflet-Part-2/`
-  - `index.html`
-  - `style.css`
-  - `logic.js`
+
 
 ## Tasks
 
@@ -37,17 +34,6 @@ This project aims to create an interactive map using Leaflet.js and D3.js to vis
 
 5. **Create Legend**
    - Developed a legend to provide context for earthquake data visualization.
-
-### Part 2: Integrate Tectonic Plates Data
-
-1. **Fetch Additional Data**
-   - Obtained tectonic plates GeoJSON data from a public repository.
-
-2. **Integrate with Existing Map**
-   - Updated `logic.js` for `Leaflet-Part-2` to include tectonic plate boundaries as a separate layer.
-
-3. **Enhance Map Functionality**
-   - Added layer controls to toggle between earthquake data and tectonic plates.
 
 
 This project showcases the capabilities of web mapping technologies in visualizing and analyzing seismic activity data.
