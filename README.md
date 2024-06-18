@@ -4,7 +4,7 @@
 This project aims to create an interactive map using Leaflet.js and D3.js to visualize earthquake data sourced from the USGS GeoJSON feed. The map will display earthquake locations, magnitudes represented by marker sizes, and depths by marker colors. Optional integration includes plotting tectonic plate boundaries alongside earthquake data for additional context. Users can toggle between different base maps and overlays using layer controls. This visualization not only educates about seismic activity but also demonstrates the integration of geographic data using modern web mapping technologies.
 
 ## Repository Structure
-- `Leaflet-Part-1/`
+- `Leaflet1/`
   - `index.html`
   - `style.css`
   - `logic.js`
